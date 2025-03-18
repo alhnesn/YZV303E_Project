@@ -1,6 +1,6 @@
 # YZV303E - Image Colorization Networks
 
-This is the GitHub repository for the ITU 2024-2025 Fall semester YZV303E - Deep Learning term project
+This is the GitHub repository for our ITU 2024-2025 Fall semester YZV303E - Deep Learning term project
 
 
 
